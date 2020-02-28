@@ -1,0 +1,35 @@
+@font-face {
+	font-family: "circular-bold";
+	src: url("../font/lineto-circular-pro-bold.ttf") format("ttf");
+}
+
+@font-face {
+	font-family: "circular-book";
+	src: url("../font/lineto-circular-pro-bold.ttf") format("ttf");
+}
+
+@font-face {
+	font-family: "circular-medium";
+	src: url("../font/lineto-circular-pro-medium.ttf") format("ttf");
+}
+
+
+
+
+h1 {
+	font-family: 'circular-bold', Arial, sans-serif;
+	font-weight:normal;
+	font-style:normal;
+}
+
+h2 {
+	font-family: 'circular-book', Arial, sans-serif;
+	font-weight:normal;
+	font-style:normal;
+}
+
+h3 {
+	font-family: 'circular-book', Arial, sans-serif;
+	font-weight:normal;
+	font-style:normal;
+}
