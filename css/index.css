@@ -13,23 +13,33 @@
 	src: url("../font/lineto-circular-pro-medium.ttf") format("ttf");
 }
 
+.hero h1{
+	font-size: 60px;
+	line-height: 60px;
+}
 
-
-
-h1 {
+h1,h2,h3,h4{
 	font-family: 'circular-bold', Arial, sans-serif;
-	font-weight:normal;
-	font-style:normal;
+	font-size:42px;
+	line-height: 50px;
 }
 
-h2 {
-	font-family: 'circular-book', Arial, sans-serif;
-	font-weight:normal;
-	font-style:normal;
+h1,h3,h4{
+	color:#333F48;
 }
 
-h3 {
-	font-family: 'circular-book', Arial, sans-serif;
-	font-weight:normal;
-	font-style:normal;
+h2{
+	color:#6D7885;
+	font-size:30px;
+	line-height: 36px;
+}
+
+h3{
+	font-size:21px;
+	line-height: 26px;
+}
+
+h4{
+	font-size:20px;
+	line-height: 26px;
 }
