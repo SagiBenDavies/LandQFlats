@@ -1,16 +1,14 @@
-@font-face {
-	font-family: "circular-bold";
-	src: url("../font/lineto-circular-pro-bold.ttf") format("ttf");
-}
+:root {
+	--primary-brand-yellow: #FED925;
+	--primary-brand-dark-blue: #333F48;
 
-@font-face {
-	font-family: "circular-book";
-	src: url("../font/lineto-circular-pro-bold.ttf") format("ttf");
-}
+	--secondary-brand-grey: #6D7885;
+	--secondary-brand-mid-grey: #EDEDEE;
+	--secondary-brand-light-grey: #F5F5F6;
 
-@font-face {
-	font-family: "circular-medium";
-	src: url("../font/lineto-circular-pro-medium.ttf") format("ttf");
+	--portal-colour-payments: #4B7B86;
+	--portal-colour-profile: #8D708A;
+	--portal-colour-repairs: #676F4F;
 }
 
 .hero h1{
@@ -44,4 +42,21 @@ h3{
 h4{
 	font-size:20px;
 	line-height: 26px;
+}
+
+
+
+@font-face {
+	font-family: "circular-bold";
+	src: url("../font/lineto-circular-pro-bold.ttf") format("ttf");
+}
+
+@font-face {
+	font-family: "circular-book";
+	src: url("../font/lineto-circular-pro-bold.ttf") format("ttf");
+}
+
+@font-face {
+	font-family: "circular-medium";
+	src: url("../font/lineto-circular-pro-medium.ttf") format("ttf");
 }
